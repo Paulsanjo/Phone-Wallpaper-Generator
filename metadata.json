@@ -1,0 +1,6 @@
+{
+  "name": "Phone Wallpaper Generator",
+  "description": "Generate custom phone wallpapers in 9:16 aspect ratio based on vibe prompts and remix reference images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
